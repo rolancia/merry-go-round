@@ -1,7 +1,7 @@
 # merry-go-round
 The simplest synchronized, sized resource pool.
 
-###example
+## example
 
 ---
 ```
